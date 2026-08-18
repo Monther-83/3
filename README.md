@@ -1,7 +1,7 @@
-# PS4 - PS5 Exploit Host
-PS4 Firmwares: `5.05` `6.72` `7.XX` `8.XX` `9.XX` `10.XX` `11.00` `11.02`
+# Exploit Host MONTHER SONEEY 
+PS4 Firmwares: `5.05` `6.72` `7.XX` `8.XX` `9.XX` `10.XX` `11.00` `11.02` `13.00`
 
-PS5 Firmwares: `1.XX` `5.XX`
+PS4 Firmwares: `13.00` Coming soon 
 
 ## Steps:
 
